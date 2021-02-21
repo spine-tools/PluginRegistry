@@ -2,7 +2,11 @@
   "name": "General",
   "url": "https://github.com/Spine-project/PluginRegistry",
   "description": "General plugin registry.",
-  "plugins": {
-    "SpineOpt": "https://github.com/Spine-project/SpineOpt.jl/spinetoolbox_plugin/plugin.json"
-  }
+  "plugins": [
+    {
+      "name": "SpineOpt",      
+      "version": "0.1.0",
+      "url": "https://github.com/Spine-project/SpineOpt.jl/spinetoolbox_plugin"
+    }
+  ]
 }
