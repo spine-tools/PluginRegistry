@@ -6,7 +6,7 @@
     {
       "name": "SpineOpt",      
       "version": "0.1.0",
-      "url": "https://github.com/Spine-project/SpineOpt.jl/spinetoolbox_plugin"
+      "url": "https://github.com/Spine-project/SpineOpt.jl/tree/master/plugin"
     }
   ]
 }
