@@ -5,7 +5,7 @@
     {
       "name": "SpineOpt",      
       "version": "0.1.0",
-      "url": "https://raw.githubusercontent.com/Spine-project/SpineOpt.jl/master/plugin/plugin.json"
+      "url": "https://spine-project.github.io/SpineOptPlugin/plugin.json"
     }
   ]
 }
