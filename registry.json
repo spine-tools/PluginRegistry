@@ -6,6 +6,11 @@
       "name": "SpineOpt",      
       "version": "0.1.1",
       "url": "https://spine-project.github.io/SpineOptPlugin/plugin.json"
+    },
+    {
+      "name": "DataUtilities",
+      "version": "0.1.0",
+      "url": "https://spine-project.github.io/DataUtilitiesPlugin/plugin.json"
     }
   ]
 }
