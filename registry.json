@@ -11,6 +11,11 @@
       "name": "DataUtilities",
       "version": "0.2.0",
       "url": "https://spine-project.github.io/DataUtilitiesPlugin/plugin.json"
+    },
+    {
+      "name": "ReduceModel",
+      "version": "0.1.0",
+      "url": "https://spine-project.github.io/ReduceModelPlugin/plugin.json"
     }
   ]
 }
