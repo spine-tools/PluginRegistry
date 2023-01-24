@@ -5,17 +5,17 @@
     {
       "name": "SpineOpt",      
       "version": "0.1.4",
-      "url": "https://spine-project.github.io/SpineOptPlugin/plugin.json"
+      "url": "https://spine-tools.github.io/SpineOptPlugin/plugin.json"
     },
     {
       "name": "DataUtilities",
       "version": "0.3.0",
-      "url": "https://spine-project.github.io/DataUtilitiesPlugin/plugin.json"
+      "url": "https://spine-tools.github.io/DataUtilitiesPlugin/plugin.json"
     },
     {
       "name": "ReduceModel",
       "version": "0.1.0",
-      "url": "https://spine-project.github.io/ReduceModelPlugin/plugin.json"
+      "url": "https://spine-tools.github.io/ReduceModelPlugin/plugin.json"
     }
   ]
 }
