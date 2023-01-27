@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "SpineOpt",      
-      "version": "0.1.4",
+      "version": "0.1.5",
       "url": "https://spine-tools.github.io/SpineOptPlugin/plugin.json"
     },
     {
